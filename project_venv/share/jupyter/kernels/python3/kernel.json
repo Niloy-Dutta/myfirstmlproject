@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "d:/Machine_Learning/Python/Section_48/MY_FIRST_MACHINE_LEARNING_PROJECT/project_venv/python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3 (ipykernel)",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  }
+}
