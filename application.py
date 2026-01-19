@@ -30,6 +30,9 @@ def predict_datapoint():
         results = predict_pipeline.predict(df)
         return render_template('home.html',results= results[0])
 
+@app.route('/health')
+def health():
+    return "OK", 200
 
 
 if __name__ == '__main__': 
