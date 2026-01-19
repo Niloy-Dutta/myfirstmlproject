@@ -1,2 +1,8 @@
+pandas 
+numpy 
+seaborn 
+catboost
+xgboost
+dill
 flask
 
