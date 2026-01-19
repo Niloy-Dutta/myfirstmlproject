@@ -1,8 +1,5 @@
 pandas 
-numpy 
-seaborn 
-catboost
-xgboost
+numpy  
 dill
 flask
 
