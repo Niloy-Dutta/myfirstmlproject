@@ -1,8 +1,10 @@
-pandas 
-numpy 
-seaborn 
+flask
+gunicorn
+pandas
+numpy
+seaborn
 catboost
 xgboost
 dill
-flask
+scikit-learn
 
